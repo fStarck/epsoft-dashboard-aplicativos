@@ -1,0 +1,213 @@
+{
+  "Uso de Aplicações": [
+    {
+      "Desconhecidas": "16"
+    },
+    {
+      "Não Produtivas": "28"
+    },
+    {
+      "Produtivas": "56"
+    }
+  ],
+  "Uso de Máquinas por intensidade": [
+    {
+      "14h": "23"
+    },
+    {
+      "15h": "16"
+    },
+    {
+      "16h": "18"
+    },
+    {
+      "17h": "21"
+    },
+    {
+      "18h": "22"
+    },
+    {
+      "19h": "22"
+    }
+  ],
+  "Máquinas por Tipo de Atividade": [
+    {
+      "Em atividade real": "46"
+    },
+    {
+      "Em atividade Passiva": "22"
+    },
+    {
+      "Inativas ": "18"
+    },
+    {
+      "Bloqueadas": "14"
+    }
+  ],
+  "Aplicações": [
+    {
+      "ERP": "19,00"
+    },
+    {
+      "Excel": "18,00"
+    },
+    {
+      "WhatsApp": "19,00"
+    },
+    {
+      "Outlook": "15,00"
+    },
+    {
+      "Word": "12,00"
+    },
+    {
+      "Teams": "10,00"
+    },
+    {
+      "Chat": "5,00"
+    },
+    {
+      "outros": "2,00"
+    }
+  ],
+  "Aplicações no Topo": [
+    {
+      "ERP": "18",
+      "Classificação": "produtiva"
+    },
+    {
+      "Excel": "16",
+      "Classificação": "produtiva"
+    },
+    {
+      "WhatsApp": "15",
+      "Classificação": "produtiva"
+    },
+    {
+      "Outlook": "14",
+      "Classificação": "produtiva"
+    },
+    {
+      "Word": "10",
+      "Classificação": "produtiva"
+    },
+    {
+      "Teams": "9",
+      "Classificação": "produtiva"
+    },
+    {
+      "Chat": "6",
+      "Classificação": "produtiva"
+    },
+    {
+      "Instagram": "4",
+      "Classificação": "Desconhecida"
+    },
+    {
+      "Ponto eletronico": "2",
+      "Classificação": "Não Produtiva"
+    },
+    {
+      "gestão": "5",
+      "Classificação": "Não Produtiva"
+    },
+    {
+      "Magalu": "1",
+      "Classificação": "Desconhecida"
+    }
+  ],
+  "Desempenhos por Atividade": [
+    {
+      "Zeca Miranda": "86"
+    },
+    {
+      "Jorge Menezes": "82"
+    },
+    {
+      "Vinícius Duarte": "79"
+    },
+    {
+      "Ricardo Oliveira": "77"
+    },
+    {
+      "Gustavo Cunha": "67"
+    },
+    {
+      "Breno Lima": "66"
+    },
+    {
+      "Cláudio Almeida": "63"
+    },
+    {
+      "Leônidas Santos": "62"
+    },
+    {
+      "Gustavo Figueiredo": "60"
+    },
+    {
+      "Sidney Leal": "59"
+    },
+    {
+      "Luiz Aragão": "59"
+    },
+    {
+      "Emanuel Neves": "58"
+    },
+    {
+      "Bernardo Alcântara": "59"
+    },
+    {
+      "Roberto Sousa": "58"
+    },
+    {
+      "Luiz Guedes": "56"
+    }
+  ],
+  "Por chamadas atendidas": [
+    {
+      "Vinícius Duarte": "37"
+    },
+    {
+      "Cláudio Almeida": "37"
+    },
+    {
+      "Zeca Miranda": "35"
+    },
+    {
+      "Arthur Brito": "33"
+    },
+    {
+      "Jorge Menezes": "32"
+    },
+    {
+      "Marcos Castro": "28"
+    },
+    {
+      "Ana Machado": "26"
+    },
+    {
+      "Ricardo Oliveira": "25"
+    },
+    {
+      "Leônidas Santos": "25"
+    },
+    {
+      "Pedro Ferreira": "24"
+    },
+    {
+      "Claudio Godoy": "24"
+    },
+    {
+      "Ricardo Soares": "23"
+    },
+    {
+      "Breno Lima": "22"
+    },
+    {
+      "Elton Paiva": "21"
+    },
+    {
+      "Gustavo Cunha": "15"
+    }
+  ]
+}
